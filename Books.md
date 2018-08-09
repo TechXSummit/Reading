@@ -10,6 +10,7 @@
 | 大外交 |  |
 | 科学革命的结构 |  |
 | Age of Insight |  |
+| The Selfish Gene |  |
 | Gene: An Intimate History |  |
 | 国家地理：观星指南 |  |
 | 基因组 |  |
