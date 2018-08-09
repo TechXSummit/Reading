@@ -1,7 +1,7 @@
 # Book List
 
-| Name | Author | Subject
-| :--- | :----- | :------
+| Name | Author | Category
+| :--- | :----- | :------:
 | Vermeer's Hat |  |
 | The Clash of Civilizations and the Remaking of World Order |  |
 | Godel,Escher,Bach |  |
@@ -25,5 +25,5 @@
 | 悲剧的诞生 |  |
 | 思想的力量 |  |
 | 简明语言哲学 |  |
-| 写给大家看的设计书 |  |
-| Linear Algebra Done Right | Sheldon Axler | Math
+| 写给大家看的设计书 |  | Art
+| Linear Algebra Done Right | Sheldon Axler | Mathematics
