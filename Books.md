@@ -5,7 +5,7 @@
 | Vermeer's Hat | Timothy Brook | History |
 | The Clash of Civilizations and the Remaking of World Order | Samuel P. Huntington | History |
 | Godel,Escher,Bach | Douglas Hofstadter | Science |
-| 上帝掷骰子吗 | 曹天元 | Science |
+| 上帝掷骰子吗 | 曹天元 | Science | [PDF](https://github.com/TechXSummit/Reading/raw/master/assets/Science/上帝掷骰子吗.pdf)
 | 费曼物理学讲义第三卷 | Richard Feynman | Science |
 | 大外交 | 基辛格 | History |
 | 科学革命的结构 | Thomas S.Kuhn | Science |
