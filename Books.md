@@ -11,7 +11,6 @@
 | 科学革命的结构 |  |
 | Age of Insight |  |
 | Gene: An Intimate History |  |
-| Selfish Genes |  |
 | 国家地理：观星指南 |  |
 | 基因组 |  |
 | 白夜行 |  |
