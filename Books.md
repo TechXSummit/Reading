@@ -12,8 +12,7 @@
 | Age of Insight | Eric Kande | Art |
 | The Selfish Gene | 	Richard Dawkins | Science |
 | Gene: An Intimate History | Siddhartha Mukherjee | Science |
-| 国家地理：观星指南 |  |  |
-| 基因组 |  |  |
+| 基因组 | Matt Ridley | Science |
 | 白夜行 | 东野圭吾 | Literature |
 | 嫌疑人X的献身 | 东野圭吾 | Literature |
 | 放学后 | 东野圭吾 | Literature |
@@ -21,7 +20,7 @@
 | Into the Wild | Jon Krauer | Literature |
 | 芙蓉镇 | 古华 | Literature |
 | 局外人 | 加缪 | Literature |
-| The Big Questions: Introduction to Philosophy |  | Philosophy |
+| The Big Questions: Introduction to Philosophy | Robert Solomon | Philosophy |
 | 悲剧的诞生 | 尼采 | Philosophy |
 | 思想的力量 | Brooke Noel Moore | Philosophy |
 | 简明语言哲学 | 陈嘉映 | Philosophy |
