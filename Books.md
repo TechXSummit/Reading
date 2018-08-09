@@ -10,7 +10,7 @@
 | 大外交 | 基辛格 | History |[PDF](https://github.com/TechXSummit/Reading/blob/master/assets/History/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC%EF%BC%9A%E5%A4%A7%E5%A4%96%E4%BA%A4%20(%E6%89%AB%E6%8F%8F%E7%89%88).pdf)
 | 科学革命的结构 | Thomas S.Kuhn | Science |[PDF](https://github.com/TechXSummit/Reading/blob/master/assets/Science/%E7%A7%91%E5%AD%A6%E9%9D%A9%E5%91%BD%E7%9A%84%E7%BB%93%E6%9E%84.pdf)
 | Age of Insight | Eric Kande | Art |
-| The Selfish Gene | 	Richard Dawkins | Science |
+| The Selfish Gene | 	Richard Dawkins | Science |[PDF](https://github.com/TechXSummit/Reading/blob/master/assets/Science/The%20Selfish%20Gene.pdf)
 | Gene: An Intimate History | Siddhartha Mukherjee | Science |[PDF](https://github.com/TechXSummit/Reading/blob/master/assets/Science/Mukherjee%2C%20Siddhartha%20-%20The%20gene%20an%20intimate%20history%20(2016%2C%20Scribner).epub)
 | 基因组 | Matt Ridley | Science |
 | 白夜行 | 东野圭吾 | Literature |
