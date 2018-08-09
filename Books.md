@@ -28,4 +28,5 @@
 | 写给大家看的设计书 |  | Art |
 | Linear Algebra Done Right | Sheldon Axler | Mathematics |
 | 简明语言哲学 |  |  |
-|Why Zebras Don't Get Ulcers | | |
+| Why Zebras Don't Get Ulcers |  |  |
+| The Elephant in the Brain |  |  |
