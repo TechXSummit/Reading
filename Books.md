@@ -26,4 +26,4 @@
 | 思想的力量 |  |
 | 简明语言哲学 |  |
 | 写给大家看的设计书 |  |
-| Linear Algebra Done Right |  |
+| Linear Algebra Done Right | Sheldon Axler | Math
