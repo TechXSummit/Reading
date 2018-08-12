@@ -28,3 +28,31 @@
 | Linear Algebra Done Right | Sheldon Axler | Mathematics |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/Mathematics/Linear%20Algebra%20Done%20Right.pdf)
 | Why Zebras Don't Get Ulcers | Robert M. Sapolsky | Science |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/Science/Robert%20M.%20Sapolsky-Why%20Zebras%20Don't%20Get%20Ulcers_%20An%20Updated%20Guide%20To%20Stress%2C%20Stress%20Related%20Diseases%2C%20and%20Coping%2C%203rd%20Edition%20(2004).pdf)
 | The Elephant in the Brain | Kevin Simler / Robin Hanson | Psychology |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/Psychology/Kevin%20Simler%2C%20Robin%20Hanson-The%20Elephant%20in%20the%20Brain_%20Hidden%20Motives%20in%20Everyday%20Life-Oxford%20University%20Press%20(2018).pdf)
+| 活着 |  |  |
+| 安珀志 |  |  |
+| 蝇王 |  |  |
+| 阿尼阿拉号 |  |  |
+| 沙丘 |  |  |
+| Heart of Darkness |  |  |
+| Of Mice and Men |  |  |
+| 大师与玛格丽特 |  |  |
+| 乌合之众 |  |  |
+| Brave New World |  |  |
+| The Vulnerable Observer |  |  |
+| Tell My Horse |  |  |
+| Proofs From The Book |  |  |
+| Outliers |  |  |
+| The Things They Carried |  |  |
+| Origin of Species |  |  |
+| 霍乱时期的爱情 |  |  |
+| 繁花 |  |  |
+| 不能承受的生命之轻 |  |  |
+| 异乡人 |  |  |
+| 小于一 |  |  |
+| 韩非子 |  |  |
+| 论语 |  |  |
+| 阿弥陀佛么么哒 |  |  |
+| The Policeman Said |  |  |
+| 老残游记 |  |  |
+| 苏菲的世界 |  |  |
+| 单向街 |  |  |
