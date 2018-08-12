@@ -4,7 +4,7 @@
 | :--- | :----- | :------- | :---
 | Vermeer's Hat | Timothy Brook | History |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/History/Timothy%20Brook%20-%20Vermeer's%20Hat_%20The%20Seventeenth%20Century%20and%20the%20Dawn%20of%20the%20Global%20World%20(2007%2C%20Bloomsbury%20Press).pdf)
 | The Clash of Civilizations and the Remaking of World Order | Samuel P. Huntington | History |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/History/Samuel%20P.%20Huntington%20-%20The%20Clash%20of%20Civilizations%20and%20the%20Remaking%20of%20World%20Order%20(1996%2C%20Simon%20_%20Schuster).pdf)
-| Godel,Escher,Bach | Douglas Hofstadter | Science |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/Science/Douglas%20R.%20Hofstadter%20-%20G%C3%B6del%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Braid%20(1994%2C%20Basic%20Books).pdf)
+| Gödel, Escher, Bach | Douglas Hofstadter | Science |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/Science/Douglas%20R.%20Hofstadter%20-%20G%C3%B6del%2C%20Escher%2C%20Bach_%20An%20Eternal%20Golden%20Braid%20(1994%2C%20Basic%20Books).pdf)
 | 上帝掷骰子吗 | 曹天元 | Science | [PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/Science/上帝掷骰子吗.pdf)
 | 费曼物理学讲义第三卷 | Richard Feynman | Science |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/Science/-%20Feynman%20Physics%20Lectures%20V3.pdf)
 | 大外交 | 基辛格 | History |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/History/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC%EF%BC%9A%E5%A4%A7%E5%A4%96%E4%BA%A4%20(%E6%89%AB%E6%8F%8F%E7%89%88).pdf)
@@ -28,31 +28,30 @@
 | Linear Algebra Done Right | Sheldon Axler | Mathematics |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/Mathematics/Linear%20Algebra%20Done%20Right.pdf)
 | Why Zebras Don't Get Ulcers | Robert M. Sapolsky | Science |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/Science/Robert%20M.%20Sapolsky-Why%20Zebras%20Don't%20Get%20Ulcers_%20An%20Updated%20Guide%20To%20Stress%2C%20Stress%20Related%20Diseases%2C%20and%20Coping%2C%203rd%20Edition%20(2004).pdf)
 | The Elephant in the Brain | Kevin Simler / Robin Hanson | Psychology |[PDF](https://raw.githubusercontent.com/TechXSummit/Reading/master/assets/Psychology/Kevin%20Simler%2C%20Robin%20Hanson-The%20Elephant%20in%20the%20Brain_%20Hidden%20Motives%20in%20Everyday%20Life-Oxford%20University%20Press%20(2018).pdf)
-| 活着 |  |  |
-| 安珀志 |  |  |
-| 蝇王 |  |  |
-| 阿尼阿拉号 |  |  |
-| 沙丘 |  |  |
-| Heart of Darkness |  |  |
-| Of Mice and Men |  |  |
-| 大师与玛格丽特 |  |  |
-| 乌合之众 |  |  |
-| Brave New World |  |  |
-| The Vulnerable Observer |  |  |
-| Tell My Horse |  |  |
-| Proofs From The Book |  |  |
-| Outliers |  |  |
-| The Things They Carried |  |  |
-| Origin of Species |  |  |
-| 霍乱时期的爱情 |  |  |
-| 繁花 |  |  |
-| 不能承受的生命之轻 |  |  |
-| 异乡人 |  |  |
-| 小于一 |  |  |
-| 韩非子 |  |  |
-| 论语 |  |  |
-| 阿弥陀佛么么哒 |  |  |
-| The Policeman Said |  |  |
-| 老残游记 |  |  |
-| 苏菲的世界 |  |  |
-| 单向街 |  |  |
+| 活着 | 余华 | Literature |
+| 安珀志 | 罗杰·泽拉兹尼 | Literature |
+| Lord of the Flies | William Golding | Literature |
+| 阿尼阿拉号 | 哈瑞·马丁松 | Literature |
+| 沙丘 | Frank Herbert | Literature |
+| Heart of Darkness | Joseph Conrad | Literature |
+| Of Mice and Men | John Steinbeck | Literature |
+| 大师与玛格丽特 | Mikhail Bulgakov | Literature |
+| 乌合之众 | Gustave Le Bon | Psychology |
+| Brave New World | Aldous Huxley | Literature |
+| The Vulnerable Observer | Ruth Behar | Anthropology |
+| Tell My Horse | Zora Neale Hurston | Literature |
+| Proofs from THE BOOK | Martin Aigner | Mathematics |
+| The Things They Carried | Tim O'Brien | History |
+| Origin of Species | Charles Darwin | Science |
+| 霍乱时期的爱情 | Gabriel García Márquez | Literature |
+| 繁花 | 金宇澄 | Literature |
+| 不能承受的生命之轻 | Milan Kundera | Literature |
+| 异乡人 | Albert Camus | Literature |
+| 小于一 | Joseph Brodsky | Literature |
+| 韩非子 | 韩非 | Philosophy |
+| 论语 | 孔子子弟, et al. | Philosophy |
+| 阿弥陀佛么么哒 | 大冰 | Literature |
+| Flow My Tears, the Policeman Said | Philip K. Dick | Literature |
+| 老残游记 | 刘鹗 | Literature |
+| 苏菲的世界 | Jostein Gaarder | Philosophy |
+| One Way Street | Walter Benjamin | Philosophy |
