@@ -53,5 +53,4 @@
 | 阿弥陀佛么么哒 | 大冰 | Literature |
 | Flow My Tears, the Policeman Said | Philip K. Dick | Literature |
 | 老残游记 | 刘鹗 | Literature |
-| 苏菲的世界 | Jostein Gaarder | Philosophy |
 | One Way Street | Walter Benjamin | Philosophy |
